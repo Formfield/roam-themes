@@ -2,15 +2,15 @@
 @import url('https://azlen.github.io/roam-themes/core.css');
 
 /* GOOGLE FONTS */
-@import url('https://fonts.googleapis.com/css2?family=Oxanium:wght@600&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=inter:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=inter:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
 /* VARIABLES */
 :root {
     --page-width: 616px;
     
-    --header-font: "Oxanium", "Inter", sans-serif;
-    --body-font: "Ubuntu", "Inter", sans-serif;
+    --header-font: "Inter", sans-serif;
+    --body-font: "Inter", sans-serif;
     
     --bg-color: #000000;
     --page-color: rgba(44, 44, 44, 0.95);
